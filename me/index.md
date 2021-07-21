@@ -3,13 +3,13 @@ layout: me
 title: Our Goal And Team
 ---
 
-## Our Goal
+# Our Goal
 
 
 
-## Our Team
+# Our Team
 
-### Derya Akbaba
+## Derya Akbaba
 
 In her PhD work Derya uses critical theory as a lens for understanding the intersection of design and technology within the field of Information Visualization. With a less than “traditional” background in Labor Relations, Cognitive Science, and Economics, she is inspired by the intersections across disciplines and interrogating the differences (and similarities) that matter.
 
@@ -17,7 +17,7 @@ Prior to joining the University of Utah she worked for six years at a boutique d
 
 [Website Link](https://gotdairyya.github.io/)
 
-### Miriah Meyer
+## Miriah Meyer
 
 Miriah is an associate professor in the School of Computing at the University of Utah and a faculty member in the Scientific Computing and Imaging Institute. She co-directs the Visualization Design Lab, which focuses on the design of visualization systems for helping people make sense of complex data, and on the development of methods for helping visualization designers make sense of the world. She obtained her bachelors degree in astronomy and astrophysics at Penn State University, and earned a PhD in computer science from the University of Utah. Prior to joining the faculty at Utah Miriah was a postdoctoral research fellow at Harvard University and a visiting scientist at the Broad Institute of MIT and Harvard.
 
@@ -25,7 +25,7 @@ Miriah is the recipient of a NSF CAREER grant, a Microsoft Research Faculty Fell
 
 [Website Link](http://www.cs.utah.edu/~miriah/bio/)
 
-### Jack Wilburn
+## Jack Wilburn
 
 Jack is a research data visualization software developer with the Scientific Computing and Imaging Institute at the University of Utah. Through his work, Jack leads development efforts on over $3,000,000 of grant funded research into a broad range of topics, including multivariate network visualizations, neuromodulation therapy databases, and patient blood management analysis tools. Another critical part of Jack's work is mentoring PhD students in the Visualization Design Lab and helping the lab make quality, maintainable software. He obtained a Bachelor of Science Degree in Mathematics from Westminster College in Salt Lake City, and is currently pursuing a Master's degree in Computer Science from the University of Utah.
 
