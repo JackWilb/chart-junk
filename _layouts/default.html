@@ -43,7 +43,7 @@
 		</div>
 		<div class="post_list">
 			{% unless page.date%}
-				{% if page.title == 'me' or page.title == '404...' %}
+				{% if page.title == 'Our Goal And Team' or page.title == '404...' %}
 					<ul>
 						{% for post in site.posts %}
 						<li><a href="/chart-junk{{  post.url }}" title="{{ post.title }}"><img src="/chart-junk/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
