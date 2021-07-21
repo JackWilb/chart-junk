@@ -1,5 +1,5 @@
 ---
-layout: me
+layout: about
 title: Our Goal And Team
 ---
 # Our Goal
