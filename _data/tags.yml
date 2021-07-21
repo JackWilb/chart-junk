@@ -1,8 +1,8 @@
-tag1:
-  name: tag1
+papers:
+  name: papers
 
-tag2:
-  name: tag2
+videos:
+  name: videos
 
 tag3:
   name: tag3
