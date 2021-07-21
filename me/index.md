@@ -2,10 +2,13 @@
 layout: me
 title: Our Goal And Team
 ---
-
 # Our Goal
 
+Our goal through this research was to reframe the conversation around chartjunk. Since the term is not well defined and we had read some articles that showed chartjunk is often useful for creating accessible charts, we decided we needed to revisit the term and see if we should even be using it at all. We decided that the best thing we can do is to throw out the term, thus completing some vis maintenance, 
 
+For us, throwing out the term took many different forms. We wrote a paper, updated the wikipedia page, and physically removed the work chartjunk from all papers in IEEE. This website holds the artifacts from that final piece of performance art: the video of the chartjunk being cut out of the papers and the scans of the copies with the word removed.
+
+This performance art was inspired by [Mierle Laderman Ukeles, Washing/Tracks/Maintenance: Outside (July 23, 1973)](https://www.youtube.com/watch?v=WIhf3UBNTlA). 
 
 # Our Team
 
