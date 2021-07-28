@@ -45,17 +45,22 @@
 			{% unless page.date%}
 				{% if page.title == 'Our Goal And Team' or page.title == '404...' %}
 					<ul>
-						{% for post in site.posts %}
-						<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+						{% for tag in tags %}
+						<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
 						{% endfor %}
 					</ul>
 				{% else %}
 					{{ content }}
 				{% endif %}
 			{% else %}
+				{{ page.tag }}
 				<ul>
-					{% for post in site.posts %}
-					<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+					{% for tag in site.tags %}
+						{% if tag[0] == page.tags[0] %}
+							{% for post in tag[1] %}
+								<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+							{% endfor %}
+						{% endif %}
 					{% endfor %}
 				</ul>
 			{% endunless %}
@@ -64,7 +69,7 @@
 			{% if page.tag %}
 				<div class="left">{{ site.tags[page.tag] | size }} object(s)</div>
 			{% else %}
-				<div class="left">{{ site.posts | size }} object(s)</div>
+				<div class="left">{{ site.tags | size }} object(s)</div>
 			{% endif %}
 			<div class="right">&nbsp;</div>
 		</div>
@@ -82,7 +87,7 @@
 				<li>{{ page.date | date: '%B %-d, %Y' }}</li>
 			</ul>
 			<div class="post_content">
-        		{{ content }}
+				{{ content }}
 			</div>
 		</div>
     {% endif %}
