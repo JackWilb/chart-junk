@@ -46,7 +46,7 @@
 				{% if page.title == 'Our Goal And Team' or page.title == '404...' %}
 					<ul>
 						{% for tag in tags %}
-						<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
+						<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" width="32" height="32" />{{ tag[0] | replace:'-', ' ' }}</a></li>
 						{% endfor %}
 					</ul>
 				{% else %}
