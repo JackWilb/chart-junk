@@ -1,11 +1,10 @@
 ---
 layout: default
-title: "Video: Page Cutting"
+title: "A README"
 tags: videos
 ---
 
-
-# Page Selection Methodology
+# README
 
 Throughout the video, we are cutting out the term chart junk in all IEEE papers. To create our corpus of papers, we used the following search terms in [IEEE Xplore](/ieeexplore.ieee.org):
 
@@ -30,5 +29,4 @@ The Adobe script resulted in 84 extracted pages. These pages are the pages you s
 On this site you will find the 52 non-duplicated papers. We invite you to use these papers as madlib templates. What are better terms one can use to say the same thing? There is one chartjunk that we accidentally forgot to cut. Can you help us find it?
 
 
-Watch Derya cut all the pages up:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SIbbSDTYUeY" frameborder="0" allowfullscreen></iframe>
+[Watch Derya cut all the pages up](https://chartjunk.art/20210721/video)
