@@ -31,4 +31,4 @@ On this site you will find the 52 non-duplicated papers. We invite you to use th
 
 [Watch Derya cut all the pages up](https://chartjunk.art/20210721/video)
 
-To see the artifacts from the page cutting click [here](https://chartjunk.art/20210721/video-readme)
+To see the artifacts from the page cutting click [here](https://chartjunk.art/20210721/paper-readme)

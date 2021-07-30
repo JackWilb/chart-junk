@@ -10,4 +10,4 @@ Part of our work to maintain the word chartunk was to update the wikipedia page.
 
 TODO: ADD A DESCRIPTION OF WHAT WE ACTUALLY CHANGED
 
-[See the edits](https://chartjunk.art/20210721/the-edit)
+[See the edits](https://chartjunk.art/20210721/wiki-edits)
