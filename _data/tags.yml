@@ -1,8 +1,8 @@
-pages:
-  name: pages
+the-scanned-repository:
+  name: The Scanned Repository
 
-videos:
-  name: videos
+the-video:
+  name: The Video
 
-wiki-edits:
-  name: wiki-edits
+the-edit:
+  name: The Edit

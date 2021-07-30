@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Wikipedia Edits"
-tags: wiki-edits
+tags: the-edit
 ---
 
 # Wikipedia Edits

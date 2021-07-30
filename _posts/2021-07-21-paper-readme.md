@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A README"
-tags: pages
+tags: the-scanned-repository
 ---
 
 # README
