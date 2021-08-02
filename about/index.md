@@ -40,3 +40,7 @@ Jack's hobbies include:
 - Spending quality time with his partner sampling Salt Lake City's best cocktails.
 
 [Website Link](https://jackwilburn.xyz/)
+
+## Main T. Nance
+
+Main is interested in one and one thing only, maintenance. As our online avatar, you can tweet at [@SayNo2Chartjunk](https://twitter.com/SayNo2Chartjunk) with your own maintenance work. Let Main and us know what terms do the work to fill in the blanks that chartjunk left behind.
