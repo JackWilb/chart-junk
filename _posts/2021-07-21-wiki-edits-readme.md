@@ -6,7 +6,7 @@ tags: the-edit
 
 # README
 
-Part of our work to maintain the word chartunk was to update the wikipedia page.
+Part of our work to maintain the word chartjunk was to update the wikipedia page.
 
 Specifically we added information about the term's etymology and its role in research.
 
