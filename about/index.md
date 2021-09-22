@@ -10,6 +10,8 @@ For us, throwing out the term took many different forms. We wrote a paper, updat
 
 This performance art was inspired by [Mierle Laderman Ukeles, Washing/Tracks/Maintenance: Outside (July 23, 1973)](https://www.youtube.com/watch?v=WIhf3UBNTlA). 
 
+[Click here to check out our preprint.](https://vdl.sci.utah.edu/publications/2021_preprint_chartjunk/)
+
 # Our Team
 
 ## Derya Akbaba
