@@ -10,11 +10,14 @@ For us, throwing out the term took many different forms. We wrote a paper, updat
 
 This performance art was inspired by [Mierle Laderman Ukeles, Washing/Tracks/Maintenance: Outside (July 23, 1973)](https://www.youtube.com/watch?v=WIhf3UBNTlA). 
 
-[Click here to check out our preprint.](https://vdl.sci.utah.edu/publications/2021_preprint_chartjunk/)
+[Click here to check out the paper.](https://arxiv.org/abs/2109.10132)
+
+On Oct 24, 2021, derya akbaba dramatically read Tufte's text while the alt.vis community performed collective maintenance work.
+Traces of the performance include [the slides](../assets/chartjunk-altvis-2021.pdf) and [the video recording](https://youtu.be/jFbsYto_2ys?t=1924) of the presentation.
 
 # Our Team
 
-## Derya Akbaba
+## derya akbaba
 
 In her PhD work Derya uses critical theory as a lens for understanding the intersection of design and technology within the field of Information Visualization. With a less than “traditional” background in Labor Relations, Cognitive Science, and Economics, she is inspired by the intersections across disciplines and interrogating the differences (and similarities) that matter.
 
@@ -24,11 +27,11 @@ Prior to joining the University of Utah she worked for six years at a boutique d
 
 ## Miriah Meyer
 
-Miriah is an associate professor in the School of Computing at the University of Utah and a faculty member in the Scientific Computing and Imaging Institute. She co-directs the Visualization Design Lab, which focuses on the design of visualization systems for helping people make sense of complex data, and on the development of methods for helping visualization designers make sense of the world. She obtained her bachelors degree in astronomy and astrophysics at Penn State University, and earned a PhD in computer science from the University of Utah. Prior to joining the faculty at Utah Miriah was a postdoctoral research fellow at Harvard University and a visiting scientist at the Broad Institute of MIT and Harvard.
+Miriah is a professor in the Division of Media & Information Technology at Linköping University, supported through the WASP program. Her research focuses on the design of visualization systems for helping people make sense of complex data, and on the development of methods for helping visualization designers make sense of the world. She obtained her bachelors degree in astronomy and astrophysics at Penn State University, earned a PhD in computer science from the University of Utah, and completed a postdoctoral fellowship at Harvard University. Prior to joining the faculty at LiU she was an associate professor in the School of Computing at the University of Utah and a member of the Vis Design Lab in the Scientific Computing & Imaging Institute.
 
-Miriah is the recipient of a NSF CAREER grant, a Microsoft Research Faculty Fellowship, and a NSF/CRA Computing Innovation Fellow award. She was named a University of Utah Distinguished Alumni, both a TED Fellow and a PopTech Science Fellow, and included on MIT Technology Review's TR35 list of the top young innovators. She was also awarded an AAAS Mass Media Fellowship that landed her a stint as a science writer for the Chicago Tribune. 
+Miriah has received numerous awards and recognitions for her work including being named a University of Utah Distinguished Alumni, both a TED Fellow and a PopTech Science Fellow, a Microsoft Research Faculty Fellow, and included on MIT Technology Review's TR35 list of the top young innovators. She was also awarded an AAAS Mass Media Fellowship that landed her a stint as a science writer for the Chicago Tribune. 
 
-[Website Link](http://www.cs.utah.edu/~miriah/bio/)
+[Website Link](https://miriah.github.io/)
 
 ## Jack Wilburn
 
