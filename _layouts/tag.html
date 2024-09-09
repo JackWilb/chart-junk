@@ -4,6 +4,6 @@ layout: default
 <ul>
 	{% assign sorted_items = site.tags[page.tag] | sort: 'title' %}
 	{% for post in sorted_items %}
-		<li><a href="{{  post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl }}/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
+		<li><a href="{{site.baseurl}}{{  post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl }}/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
 	{% endfor %}
 </ul>
