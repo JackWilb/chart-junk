@@ -1,6 +1,6 @@
-permalink: /chart-junk//:year:month:day/:title
-url: https://jackwilb.github.io/chart-junk/
-baseurl: /project
+permalink: /:year:month:day/:title
+url: https://jackwilb.github.io/
+baseurl: /chart-junk
 
 # variables
 name: Chartjunk

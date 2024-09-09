@@ -8,4 +8,4 @@ tags: the-scanned-repository
 
 Here are the artifacts from Derya's page cutting. You'll notice that the scanned copies have the word chartjunk missing. If you can think of a better term to use in it's place, hit the tweet button and add your suggestion to the tweet!
 
-To see our paper selection methodology click [here](https://jackwilb.github.io/chart-junk/20210721/video-readme).
+To see our paper selection methodology click [here]({{site.url}}{{ site.baseurl }}/20210721/video-readme).
