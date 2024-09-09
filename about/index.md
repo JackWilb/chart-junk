@@ -13,7 +13,7 @@ This performance art was inspired by [Mierle Laderman Ukeles, Washing/Tracks/Mai
 [Click here to check out the paper.](https://arxiv.org/abs/2109.10132)
 
 On Oct 24, 2021, derya akbaba dramatically read Tufte's text while the alt.vis community performed collective maintenance work.
-Traces of the performance include [the slides](https://chartjunk.art/assets/chartjunk-altvis-2021.pdf) and [the video recording](https://youtu.be/jFbsYto_2ys?t=1924) of the presentation.
+Traces of the performance include [the slides](https://jackwilb.github.io/chart-junk/assets/chartjunk-altvis-2021.pdf) and [the video recording](https://youtu.be/jFbsYto_2ys?t=1924) of the presentation.
 
 # Our Team
 

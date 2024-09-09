@@ -4,6 +4,6 @@ layout: default
 <ul>
 	{% assign tags = site.tags | sort %}
 	{% for tag in tags %}
-	<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" width="32" height="32" />{{ tag[0] | replace:'-', ' ' }}</a></li>
+	<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/chart-junk/assets/img/folder.ico" width="32" height="32" />{{ tag[0] | replace:'-', ' ' }}</a></li>
 	{% endfor %}
 </ul>
