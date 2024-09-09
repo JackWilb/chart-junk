@@ -1,4 +1,4 @@
-permalink: /:year:month:day/:title
+permalink: /chart-junk//:year:month:day/:title
 url: https://jackwilb.github.io/chart-junk/
 baseurl: /project
 
